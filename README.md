@@ -2,7 +2,7 @@
   <a href="#-tecnologias">👆🏻 Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">✔️ Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">💻 Layout WEB</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">📱 Layout Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">📱 Layout Mobile</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 # Olá, Bem vindo ao meu projeto de portfólio.
