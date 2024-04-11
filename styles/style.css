@@ -177,7 +177,7 @@ body {
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 540px){
   body {
     background-image: url(/assets/fundo.2.png);
     position: auto;
@@ -212,9 +212,10 @@ body {
   }
   .apresentacao__conteudo__texto {
     font-size: 1.25rem;
+
   }
   .apresentacao__imagem {
-    width: 60%;
+    width: 100%;
   }
   .apresentacao__links {
     gap: 1.25rem;
@@ -233,10 +234,11 @@ body {
   }
 
   .rodape {
-    font-size: 1rem;
+  font-size: 1rem;
   }
 
   .rodape__nome {
     font-size: 3rem;
   }
+
 }
