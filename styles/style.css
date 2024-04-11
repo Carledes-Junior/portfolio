@@ -184,7 +184,7 @@ body {
   }
 
   .cabecalho {
-    margin: 2% 0% 2% 0%;
+    margin: 6% 0% 6% 0%;
   }
 
   .cabecalho__menu {
@@ -215,7 +215,7 @@ body {
 
   }
   .apresentacao__imagem {
-    width: 100%;
+    width: 80%;
   }
   .apresentacao__links {
     gap: 1.25rem;
